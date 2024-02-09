@@ -25,6 +25,8 @@ set APP_API_TOKEN=tZL3XdZQoLLWfLHn0UPWEg==
 
 Take the token you generated for Dapr and give it to your app. In your code, you will compare the token that Dapr sends you with the one your app has.
 
+On Linux:
+
 ```bash
 export MY_APP_TOKEN=tZL3XdZQoLLWfLHn0UPWEg==
 ```
